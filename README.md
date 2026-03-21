@@ -8,21 +8,19 @@
 
 
 
-![](https://nirzak-streak-stats.vercel.app/?user=krrzss&theme=dark&hide_border=false)<br/>
-
-
-
-
-
 
 # 💫 About Me
 
 ## Hi there 👋, I'm Khushi Sarkar
 
 📡 Building full-stack projects with Python & React and a sleek portfolio to break into internships.  
+
 🤝 Looking to collaborate on Web apps, UI/UX ideas, and real-world problem-solving projects.  
+
 🌱 Currently learning Advanced JavaScript, deepening Core Java, and exploring modern backend development.  
+
 💬 Ask me about HTML, CSS, JavaScript, React, Python, MongoDB, Supabase, and beginner Java.  
+
 ⚡ Fun fact: I can debug for hours but still get hyped by a perfectly aligned div 😄  
 
 
@@ -56,6 +54,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=krrzss&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=krrzss&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=krrzss&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
