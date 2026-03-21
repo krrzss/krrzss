@@ -1,10 +1,11 @@
-# 💫 About Me:
-## Hi there 👋, I'm Khushi Sarkar<br><br>
-## 📡 Building full-stack projects with Python & React and a sleek portfolio to break into internships.  <br>
-## 🤝 I’m looking to collaborate on Web apps, UI/UX ideas, and real-world problem-solving projects.  <br>
-## 🌱 Currently learning Advanced JavaScript, deepening Core Java, and exploring modern backend development.  <br>
-## 💬 Ask me about HTML, CSS, JavaScript, React, Python, MongoDB, Supabase, and beginner Java.  <br>
-## ⚡ Fun fact: I can debug for hours but still get hyped by a perfectly aligned div 😄  <br>
+# 💫 About Me
+## Hi there 👋, I'm Khushi Sarkar
+
+📡 Building full-stack projects with Python & React and a sleek portfolio to break into internships.  
+🤝 Looking to collaborate on Web apps, UI/UX ideas, and real-world problem-solving projects.  
+🌱 Currently learning Advanced JavaScript, deepening Core Java, and exploring modern backend development.  
+💬 Ask me about HTML, CSS, JavaScript, React, Python, MongoDB, Supabase, and beginner Java.  
+⚡ Fun fact: I can debug for hours but still get hyped by a perfectly aligned div 😄  
 
 
 ## 🌐 Socials:
