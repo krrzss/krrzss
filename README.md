@@ -42,6 +42,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=krrzss&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-here about the icons either make the icons with same gradient colour withut mixing all those up or make it look clean and polish
