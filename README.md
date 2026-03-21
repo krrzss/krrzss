@@ -3,6 +3,7 @@
 
 
 <img width="596" height="179" alt="Screenshot 2026-01-02 202304" src="https://github.com/user-attachments/assets/086d57c5-281c-4d23-b10f-6169a2bcfde5" />
+![](https://nirzak-streak-stats.vercel.app/?user=krrzss&theme=dark&hide_border=false)<br/>
 
 
 
@@ -50,7 +51,6 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=krrzss&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=krrzss&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=krrzss&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
