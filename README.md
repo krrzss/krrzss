@@ -7,10 +7,6 @@
 
 
 
-
-
-# 💫 About Me
-
 ## Hi there 👋, I'm Khushi Sarkar
 
 📡 Building full-stack projects with Python & React and a sleek portfolio to break into internships.  
